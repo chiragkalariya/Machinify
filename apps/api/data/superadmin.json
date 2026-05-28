@@ -1,0 +1,15 @@
+{
+  "adminUsers": [
+    {
+      "id": 1,
+      "email": "admin@shopelite.com",
+      "password": "admin123",
+      "name": "Super Admin"
+    }
+  ],
+  "shops": [],
+  "alerts": [],
+  "sessions": [],
+  "activity": [],
+  "systemUptime": "99.98%"
+}

@@ -1,0 +1,10 @@
+{
+  "extends": "@bizflow/config",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "module": "CommonJS",
+    "types": ["node"]
+  },
+  "include": ["src"]
+}

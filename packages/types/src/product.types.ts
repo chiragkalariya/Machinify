@@ -1,0 +1,1 @@
+// BizFlow - product types placeholder

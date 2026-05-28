@@ -1,0 +1,10 @@
+{
+  "name": "@bizflow/config",
+  "private": true,
+  "version": "0.1.0",
+  "main": "tsconfig.json",
+  "scripts": {
+    "lint": "echo \"Config package has no build\"",
+    "type-check": "tsc --noEmit"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@bizflow/types",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit"
+  }
+}

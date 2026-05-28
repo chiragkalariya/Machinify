@@ -1,0 +1,25 @@
+{
+  "name": "@bizflow/shop-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5175",
+    "build": "vite build",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@bizflow/ui": "workspace:*",
+    "dexie": "^4.4.3",
+    "dexie-react-hooks": "^4.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^6.0.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "vite-plugin-pwa": "^1.3.0"
+  }
+}

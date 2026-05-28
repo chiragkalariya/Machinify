@@ -1,0 +1,1 @@
+// BizFlow - invoice types placeholder

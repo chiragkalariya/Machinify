@@ -1,0 +1,1 @@
+// BizFlow - user types placeholder

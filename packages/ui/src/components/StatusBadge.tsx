@@ -1,0 +1,1 @@
+// BizFlow - StatusBadge component placeholder

@@ -1,0 +1,7 @@
+{
+  "extends": "@bizflow/config",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src"]
+}

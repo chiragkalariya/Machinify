@@ -1,0 +1,1 @@
+// BizFlow - InvoiceCard component placeholder
